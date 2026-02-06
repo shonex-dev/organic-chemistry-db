@@ -1,1 +1,6 @@
-Excel raw data for DB schema
+## raw data
+
+このフォルダには、DB設計検討段階のExcelファイルを格納しています。
+将来的にSQLiteへ移行予定です。
+
+※ 内容はサンプルデータです。
