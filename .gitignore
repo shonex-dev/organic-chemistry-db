@@ -1,0 +1,6 @@
+# 本番DB（非公開）
+*.db
+data/private/
+
+# 個人用設定
+.env
