@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 
 EXCEL_PATH = Path("data/raw/organic_questions_schema_v0.xlsx")
-DB_PATH = Path("data/sample.db")
+DB_PATH = Path("data/sample/sample.db")
 SCHEMA_PATH = Path("schema/schema.sql")
 
 # 既存DBを削除
